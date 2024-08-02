@@ -19,13 +19,13 @@
 <div id="carouselExampleAutoplaying" class="carousel slide px-5" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://cdn.gramedia.com/uploads/marketing/Gramedia.com_Special_Offer_Black_Clover_23_Storefront__wauto_h336.jpeg" class="d-block w-100" style="height: 60vh; object-fit: cover;" alt="...">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/006/296/747/small/bookshelf-with-books-biography-adventure-novel-poem-fantasy-love-story-detective-art-romance-banner-for-library-book-store-genre-of-literature-illustration-in-flat-style-vector.jpg" class="d-block w-100" style="height: 60vh; object-fit: cover;" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://cdn.gramedia.com/uploads/marketing/SO_Recommended_Books_Storefront__wauto_h336.jpg" class="d-block w-100" style="height: 60vh; object-fit: cover;" alt="...">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/006/296/747/small/bookshelf-with-books-biography-adventure-novel-poem-fantasy-love-story-detective-art-romance-banner-for-library-book-store-genre-of-literature-illustration-in-flat-style-vector.jpg" class="d-block w-100" style="height: 60vh; object-fit: cover;" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://cdn.gramedia.com/uploads/marketing/Gramedia.com_Promo_Rajagrafindo_Back_To_Campus_2024_Storefront__wauto_h336.jpg" class="d-block w-100" style="height: 60vh; object-fit: cover;" alt="...">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/006/296/747/small/bookshelf-with-books-biography-adventure-novel-poem-fantasy-love-story-detective-art-romance-banner-for-library-book-store-genre-of-literature-illustration-in-flat-style-vector.jpg" class="d-block w-100" style="height: 60vh; object-fit: cover;" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
