@@ -3,8 +3,8 @@
 BookWeb is a web application for managing books. It provides features such as adding, editing, and deleting books, as well as searching and filtering options. The project is built using BOOTSTRAP, PHP and MySQL, and it utilizes XAMPP for the local development environment.
 
 ![localhost_praukom_admin_home php (4)](https://github.com/user-attachments/assets/1f95ba53-6063-456f-9253-f1456f8516c4)
-![localhos![localhost_bookWeb_index php (1)](https://github.com/user-attachments/assets/4a6966b9-6519-45b6-9f05-047ebcb63ac3)
-t_praukom_detail_detailBook php_id=15 (1)](https://github.com/user-attachments/assets/9c7060af-8071-48f7-a5a9-11b384eaef02)
+![localhost_bookWeb_index php (1)](https://github.com/user-attachments/assets/697f7933-3a99-4e6f-8948-2f88de7fe44a)
+![localhost_praukom_detail_detailBook php_id=15 (1)](https://github.com/user-attachments/assets/24a1a4be-e29e-4652-9b6b-53671bf8f651)
 
 
 
