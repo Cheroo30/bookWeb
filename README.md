@@ -2,6 +2,12 @@
 
 BookWeb is a web application for managing books. It provides features such as adding, editing, and deleting books, as well as searching and filtering options. The project is built using BOOTSTRAP, PHP and MySQL, and it utilizes XAMPP for the local development environment.
 
+![localhost_praukom_admin_home php (4)](https://github.com/user-attachments/assets/1f95ba53-6063-456f-9253-f1456f8516c4)
+![localhost_praukom_index php](https://github.com/user-attachments/assets/eb44c1f8-15b4-4f5e-8b83-5c5fadecab95)
+![localhost_praukom_detail_detailBook php_id=15 (1)](https://github.com/user-attachments/assets/9c7060af-8071-48f7-a5a9-11b384eaef02)
+
+
+
 ## Features
 
 - Add new books with details like title, author, genre, and publication date.
@@ -37,6 +43,7 @@ To run BookWeb locally, follow these steps:
    - Import the SQL file (db-library.sql) located in the project's root directory into the newly created database.
     
 5. **Configure Database Connection:**: 
+   - In the project directory, open the admin/includes/conn.php file.
    - Set your database credentials (usually localhost, root for user, and an empty password if default settings are used).
      
 6. **Start Apache and MySQL:**: 
@@ -44,7 +51,12 @@ To run BookWeb locally, follow these steps:
 
 ### Running the Application
 
-Open your web browser and navigate to http://localhost/bookWeb to access the application.
+- Access the Main Application:
+   - Open your web browser and navigate to http://localhost/bookWeb to access the main application.
+- Access the Admin Page:
+   - To access the admin page, navigate to http://localhost/bookWeb/admin.
+      - Username: admin
+      - Password: admin
 
 ### License
 
